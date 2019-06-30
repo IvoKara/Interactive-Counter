@@ -20,6 +20,7 @@ Input from the user is taken from the three buttons on the first breadboard. Eac
 
 <h3>Output</h3>
 The output from all these assingments is shown on one 7-semgent display.
+
 ![display](https://github.com/IvoKara/Interactive-Counter/blob/master/Images/7-segment-display.png)
 
 <h2>Documentation</h2>
