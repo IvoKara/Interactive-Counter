@@ -7,7 +7,7 @@ The output of the counting is shown on a 7-semgent display as shown on the pictu
 
 ![simulation_circuit](https://github.com/IvoKara/Interactive-Counter/blob/master/Images/Interactive-Counter-simulation.png)
 
-<strong>Input</strong>
+<h3>Input</h3>
 Input from the user is taken from the three buttons on the first breadboard. Each one of them has a specific cause.
 
 ![buttons](https://github.com/IvoKara/Interactive-Counter/blob/master/Images/3-push-buttons.png)
