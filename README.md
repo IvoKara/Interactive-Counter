@@ -13,9 +13,21 @@ Input from the user is taken from the three buttons on the first breadboard. Eac
 ![buttons](https://github.com/IvoKara/Interactive-Counter/blob/master/Images/push-buttons.png)
 
 <ul>
-  <li><strong>Step:</strong> Assingns the step </li>
-  <li><strong>Way:</strong> Whether the counting is upwards(1,2,3..) or downwards(3,2,1..)[By default is upwards]. Transition between states is accomplished with just one click on the "Way" button. It is also responsible for the way the step variable changes. Ex: If the way is upwards, by clicking the "Step" button, step is ingreased by one.</li>
-  <li><strong>Count:</strong> It is said by it's name - used for counting work.</li> 
+  <li>
+    <strong>Step:</strong> Assingns the <i>step</i> of the counting. 
+    Its value will increase or decrease by one depending on the <i>"way"</i>.
+    Ex: step=1 [1,2,3..] or [1,0,9..]; step=2 [2,4,6..] or [9,7,5..]; step=0 [1,1,1...].
+  </li>
+  
+  <li>
+    <strong>Way:</strong> Whether the counting is upwards[1,2,3..] or downwards[3,2,1..](By default is upwards). 
+    Transition between states is accomplished with just one click on the "Way" button. 
+    It is also responsible for the way the <i>step</i> variable changes. Ex: If step=2 and the way is upwards, by clicking the "Step" button, step is increased by one i.e. step=3. If clicking the "Way" button and then clicking the "Step" button, step is decreased by one i.e. step=2.
+  </li>
+  
+  <li>
+    <strong>Count:</strong> It is said by it's name - used for counting work.
+  </li> 
 </ul>
 
 <h3>Output</h3>
