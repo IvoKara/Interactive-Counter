@@ -3,7 +3,7 @@ Course Project for SoftUni
 
 <h2>Description</h2>
 Microprocessor counter which can loop form 0 to 9 and reverse with a given step.
-The output of the counting is shown on a 7-semgent display as shown on the picture.
+The output of the counting is displayed on a 7-semgent display as shown on the picture.
 
 ![simulation_circuit](https://github.com/IvoKara/Interactive-Counter/blob/master/Images/Interactive-Counter-sim.png)
 
