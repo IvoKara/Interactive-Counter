@@ -13,10 +13,14 @@ Input from the user is taken from the three buttons on the first breadboard. Eac
 ![buttons](https://github.com/IvoKara/Interactive-Counter/blob/master/Images/push-buttons.png)
 
 <ul>
-  <li><strong>Step:</strong></li>
-  <li><strong>Way:</strong></li>
-  <li><strong>Count:</strong></li>
+  <li><strong>Step:</strong> Assingns the step </li>
+  <li><strong>Way:</strong> Whether the counting is upwards(1,2,3..) or downwards(3,2,1..)[By default is upwards]. Transition between states is accomplished with just one click on the "Way" button. It is also responsible for the way the step variable changes. Ex: If the way is upwards, by clicking the "Step" button, step is ingreased by one.</li>
+  <li><strong>Count:</strong> It is said by it's name - used for counting work.</li> 
 </ul>
+
+<h3>Output</h3>
+The output from all these assingments is shown on one 7-semgent display.
+![display](https://github.com/IvoKara/Interactive-Counter/blob/master/Images/7-segment-display.png)
 
 <h2>Documentation</h2>
 <a href="https://docs.google.com/document/d/1Xd61YoWmc-IO0wkxd9mXbEUEnZ0egaCDtpiLZrPKBwY/edit?usp=sharing">Link to Documentation</a>
