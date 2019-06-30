@@ -40,3 +40,6 @@ The output from all these assingments is shown on one 7-semgent display.
   
 <h2>Presentation</h2>
 <a href="https://docs.google.com/presentation/d/191El5Iqz2qBWHmz-MoNmxTex7X6sw9fov2Dep8t07Gc/edit?usp=sharing">Link to Presentation</a>
+
+<h2>Simulation</h2>
+<a href="https://www.tinkercad.com/things/cGh4hehE6eL-7-segment/editel">Link to Simulation</a>
